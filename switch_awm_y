@@ -1,0 +1,45 @@
+{
+  "searchPattern": "81 95 e3 3f 01 00 00 00 81 95 e3 3f 00 00 00 00 81 95 e3 3f 0a d7 a3 3d 00 00 00 00 00 00 5c 43 00 00 8c 42 00 00 b4 42 96 00 00 00 00 00 00 00 00 00 00 3f 00 00 80 3e 00 00 00 00 05 00 00 00 00 00 80 3f 00 00 20 41 00 00 34 42 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 33 33 33 3f 9a 99 99 3f 00 00 80 3F 00 00 00 00 00 00 80 3F CD CC 4C 3F 00 00 80 3F 00 00 00 00 00 00 00 00 00 00 00 3F",
+  "operations": [
+    {
+      "offset": 48,
+      "type": "bytes",
+      "value": "ec"
+    },
+     {
+      "offset": 49,
+      "type": "bytes",
+      "value": "51"
+    },
+     {
+      "offset": 50,
+      "type": "bytes",
+      "value": "b8"
+    },
+     {
+      "offset": 51,
+      "type": "bytes",
+      "value": "3d"
+    },
+     {
+      "offset": 52,
+      "type": "bytes",
+      "value": "8f"
+    },
+     {
+      "offset": 53,
+      "type": "bytes",
+      "value": "c2"
+    },
+     {
+      "offset": 54,
+      "type": "bytes",
+      "value": "f5"
+    },
+     {
+      "offset": 55,
+      "type": "bytes",
+      "value": "3c"
+    }
+  ]
+}
